@@ -18,13 +18,14 @@ public class EvenNiar {
      * @return 
      */
     public static void main(String[] args) {
-        kind A;
+        new myClass();
+        /*kind A;
         kind B;
         
         A = kind.even;
         B = kind.misparaim;
         
-        System.out.println(evenNiarMisparaim(A, B));
+        System.out.println(evenNiarMisparaim(A, B));*/
 
         }
     public static int evenNiarMisparaim(kind A,kind B){
